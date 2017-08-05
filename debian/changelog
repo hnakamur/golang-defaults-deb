@@ -1,3 +1,9 @@
+golang-defaults (2:1.9~1ubuntu1~hnakamur1) xenial; urgency=medium
+
+  * Use Golang 1.9.
+
+ -- Hiroaki Nakamura <hnakamur@gmail.com>  Sat, 05 Aug 2017 09:38:34 +0900
+
 golang-defaults (2:1.8~1ubuntu2~xenial) xenial; urgency=medium
 
   * Backport to 16.04.
