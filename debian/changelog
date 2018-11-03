@@ -1,3 +1,9 @@
+golang-defaults (2:1.11~1ubuntu1ppa1~ubuntu18.04.1) bionic; urgency=medium
+
+  * Use Golang 1.11.
+
+ -- Hiroaki Nakamura <hnakamur@gmail.com>  Sun, 04 Nov 2018 01:21:14 +0900
+
 golang-defaults (2:1.10~1ubuntu1ppa1~ubuntu18.04.1) bionic; urgency=medium
 
   * Change target to Ubuntu 18.04 LTS
