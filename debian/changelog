@@ -1,3 +1,9 @@
+golang-defaults (2:1.12~1ubuntu1ppa2~ubuntu18.04.1) bionic; urgency=medium
+
+  * Set GOVER to 1.10 manually
+
+ -- Hiroaki Nakamura <hnakamur@gmail.com>  Sun, 03 Feb 2019 22:44:40 +0900
+
 golang-defaults (2:1.12~1ubuntu1ppa1~ubuntu18.04.1) bionic; urgency=medium
 
   * Use Golang 1.12.
