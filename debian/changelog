@@ -1,3 +1,10 @@
+golang-defaults (2:1.12~1ubuntu1ppa4~ubuntu18.04.1) bionic; urgency=medium
+
+  * Revert "Replace ${GOVER} with 1.10 in debian/golang-go.links.golang-go"
+  * Revert "Set GOVER to 1.10 manually"
+
+ -- Hiroaki Nakamura <hnakamur@gmail.com>  Mon, 04 Feb 2019 00:33:26 +0900
+
 golang-defaults (2:1.12~1ubuntu1ppa3~ubuntu18.04.1) bionic; urgency=medium
 
   * Replace ${GOVER} with 1.10 in debian/golang-go.links.golang-go
