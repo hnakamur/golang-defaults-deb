@@ -1,7 +1,7 @@
 #!/usr/bin/make -f
 # -*- makefile -*-
 
-export GOVER := 1.10 #$(shell debian/helpers/getver.pl)
+export GOVER := $(shell debian/helpers/getver.pl)
 golang_arches := $(shell debian/helpers/getgoarches.pl)
 
 IS_GOLANG_ARCH := true
