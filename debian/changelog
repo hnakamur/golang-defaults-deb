@@ -1,3 +1,9 @@
+golang-defaults (2:1.13~1ubuntu1ppa1~bionic) bionic; urgency=medium
+
+  * Use Golang 1.13.
+
+ -- Hiroaki Nakamura <hnakamur@gmail.com>  Wed, 04 Sep 2019 08:33:15 +0900
+
 golang-defaults (2:1.12~1ubuntu1ppa4~ubuntu18.04.1) bionic; urgency=medium
 
   * Revert "Replace ${GOVER} with 1.10 in debian/golang-go.links.golang-go"
